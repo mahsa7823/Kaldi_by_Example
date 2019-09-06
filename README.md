@@ -1,8 +1,8 @@
 # Decoding
 
-Input utterance to decode: U (U_feats.scp)
+The input utterance to decode has 668 frames: U (U_feats.txt)
 
-The decoding graph HCLG (HCLG.pdf)
+The decoding graph: HCLG (HCLG.pdf)
 
 U o HCLG: 
  Decode(): creates the active_toks_ list for every frame (decode.pdf).

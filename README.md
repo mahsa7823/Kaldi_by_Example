@@ -8,7 +8,7 @@ U o HCLG:
 
  Decode(): creates the active_toks_ list for every frame (decode.pdf).
  
- GetRawLattice: create the state-level lattice base on the active_toks_ list (rawlat.pdf).
+ GetRawLattice: creates the state-level lattice based on the active_toks_ list (rawlat.pdf).
  
- Determinize(): determinized the raw lattice (detlat.pdf).
+ Determinize(): determinize the raw lattice (detlat.pdf).
 
